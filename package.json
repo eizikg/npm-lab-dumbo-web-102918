@@ -7,7 +7,11 @@
     "test": "test"
   },
   "scripts": {
+<<<<<<< HEAD
     "test": "node_modules/browser-sync/bin/browser-sync.js start --config node_modules/learn-browser/bs-config.js"
+=======
+    "test": "echo \"Error: no test specified\" && exit 1"
+>>>>>>> 6492409257e8115f4180f0d1091854259f0ae852
   },
   "repository": {
     "type": "git",
@@ -18,9 +22,13 @@
   "bugs": {
     "url": "https://github.com/eizikg/npm-lab-dumbo-web-102918/issues"
   },
+<<<<<<< HEAD
   "homepage": "https://github.com/eizikg/npm-lab-dumbo-web-102918#readme",
   "dependencies": {
     "learn-browser": "^0.1.17",
     "moment": "^2.23.0"
   }
+=======
+  "homepage": "https://github.com/eizikg/npm-lab-dumbo-web-102918#readme"
+>>>>>>> 6492409257e8115f4180f0d1091854259f0ae852
 }
